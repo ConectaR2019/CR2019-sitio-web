@@ -14,7 +14,7 @@ knitr::opts_chunk$set(collapse = TRUE)
 
 Te invitamos a participar el 24, 25, 26 de Enero del 2019 en el primer Encuentro de Usuarios de R en Centroamérica. Esperamos crear un foro amplio con representantes de  Industria, Enseñanza, Ciencia Ciudadana, Ciencia Abierta.
 
-EL lugar será Auditorio de la Ciudad de la Investigació de la Universidad de Costa Rica.
+El evento se llevará a cabo en el Auditorio de la Ciudad de la Investigación de la Universidad de Costa Rica.
  
 
 
@@ -42,7 +42,7 @@ Queremos ofrecer a nuestros patrocinadores la oportunidad de mostrar a la comuni
 
 # Patrocinadores
 
-Por anunciar. Si ustede esta interasado en patrocinar este evento por favor contacte el comité organizador.
+Por anunciar. Si estás interesado(a) en patrocinar este evento por favor contactá el comité organizador.
 
 
 
