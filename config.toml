@@ -10,14 +10,14 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     post = "/:year/:month/:day/:slug/"
 
 [[menu.main]]
-    name = "About"
-    url = "/about/"
+    name = "Información"
+    url = "/sobre/"
 [[menu.main]]
-    name = "GitHub"
-    url = "https://github.com/ConectaR2019"
-#[[menu.main]]
-#    name = "Twitter"
-#    url = "https://twitter.com/rstudio"
+    name = "Convocatoria"
+    url = "/convocatoria"
+[[menu.main]]
+    name = "Contacto"
+    url = "/contacto/"
 
 [params]
     description = "Primer Encuentro de Usuarios de R en Centroamérica: Industria, Enseñanza, Ciencia Ciudadana, Ciencia Abierta"
