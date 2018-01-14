@@ -1,7 +1,7 @@
 baseurl = "/"
 languageCode = "en-us"
 title = "ConectaR2019"
-theme = "hugo-lithium-theme"
+theme = "ConectaR2019"
 googleAnalytics = ""
 disqusShortname = ""
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
@@ -20,7 +20,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 #    url = "https://twitter.com/rstudio"
 
 [params]
-    description = "I Encuentro de Usuarios de R en Centroamérica: Industria, Enseñanza, Ciencia Ciudadana, Ciencia Abierta"
+    description = "Primer Encuentro de Usuarios de R en Centroamérica: Industria, Enseñanza, Ciencia Ciudadana, Ciencia Abierta"
 
     # options for highlight.js (version, additional languages, and theme)
     highlightjsVersion = "9.11.0"
