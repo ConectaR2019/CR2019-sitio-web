@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on ConectaR2019</title>
-    <link>/post/</link>
-    <description>Recent content in Posts on ConectaR2019</description>
+    <title>Sondeo on ConectaR2019</title>
+    <link>/tags/sondeo/</link>
+    <description>Recent content in Sondeo on ConectaR2019</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 15 Jan 2018 21:16:43 -0500</lastBuildDate>
     
-	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/sondeo/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -19,17 +19,6 @@
       <guid>/2018/01/15/sondeo-de-usuarios-centroamericanos/</guid>
       <description>Usuarios de R en Centroamérica Recientemente abrimos un sondeo para recopilar información de los y las usuarios de R en Centroamérica. Nuestros objetivos son primero, correr la voz acerca de ConectaR2019, y segundo recopilar información acerca de potenciales comunidades y áreas de aplicación de los usuarios de R en la región.
 El infográfico a continuación presenta los resultados según el corte al 12 de enero del 2018. Como verán, la muestra está sesgada a usuarios de universidades en Costa Rica, debido a que estamos utilizando la técnica de bola de nieve.</description>
-    </item>
-    
-    <item>
-      <title>Anunciamos la Conferencia ConectaR2019</title>
-      <link>/2017/12/15/anunciamos-la-conferencia-conectar2019/</link>
-      <pubDate>Fri, 15 Dec 2017 21:13:14 -0500</pubDate>
-      
-      <guid>/2017/12/15/anunciamos-la-conferencia-conectar2019/</guid>
-      <description>ConectaR2019 Te invitamos a participar el 24, 25, 26 de Enero del 2019 en el primer Encuentro de Usuarios de R en Centroamérica. Esperamos crear un foro amplio con representantes de Industria, Enseñanza, Ciencia Ciudadana, Ciencia Abierta.
-El evento se llevará a cabo en el Auditorio de la Ciudad de la Investigación de la Universidad de Costa Rica.
- Objetivo principal Crear un espacio para hacer comunidad entre usuarios de R (en industria, academia, ciencia ciudadana, enseñanza) en Centroamérica e incentivar su uso, aprendizaje y el desarrollo de paquetes en R adaptados a las necesidades de la Región Centroamericana.</description>
     </item>
     
   </channel>
