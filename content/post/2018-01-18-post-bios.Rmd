@@ -26,7 +26,11 @@ Frans van Dunné es CDO de ixpantia con mas de 15 años de experiencia en datos.
 j.vanetten [at] cgiar.org
 
 
-Jacobn van Etten, científico en medio ambiente y agricultura con más de 15 años de experiencia en el campo. Sus áreas de trabajo son análisis estadístico y geoespacial, metodologías participativas y diseño de aplicaciones orientadas al usuario. Dentro de sus principales intereses, está la contribución a la innovación en prácticas ambientales, de sostenibilidad y de bienestar. Su formación la realizó en Estudios del Desarrollo Social y producción ecológica y conservación de recursos en Wageningen University en Holanda, y el Bachillerato y su Maestría las realizó en el programa interdisciplinario en agricultura, ciencia y desarrollo internacional de Wageningen University.
+Jacob van Etten es un investigador científico en agricultura con más de 15 años de experiencia en el
+campo. Sus áreas de trabajo son: análisis estadístico y geoespacial, metodologías participativas y
+diseño de aplicaciones orientadas al usuario. En su trabajo actual se enfoca en la "ciencia ciudadana"
+para la experimentación agrícola colaborativa y distribuida y la creación de servicios de información para los agricultores y los tomadores de decisiones. Su formación la realizó en Wageningen University en
+Holanda (ciencias agrícolas y ambientales).
 
 **Marcela Alfaro Córdoba, PhD**
 
