@@ -1,0 +1,44 @@
+---
+title: '2018-01-18'
+author: "Marcela Alfaro Córdoba"
+date: '2018-01-18T21:15:03-05:00'
+tags:
+- Bios
+- Equipo
+categories: Bios
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(collapse = TRUE)
+```
+
+# Comité Coordinador
+
+**Frans van Dunné, PhD**
+
+frans [at] ixpantia.com
+
+
+Frans van Dunné es CDO de ixpantia con mas de 15 años de experiencia en datos. Frans ha colaborado con múltiples empresas en definición de estrategia y productos de datos. Como parte de estos procesos ha trabajado en modelado de procesos, minería de datos, y gestión de datos con organizaciones alrededor del mundo. Frans se formó como biólogo, tiene un PhD de la Universidad de Amsterdam y ha enseñado estadística y modelado en universidades.
+
+**Jacob van Etten, PhD**
+
+j.vanetten [at] cgiar.org
+
+
+Jacobn van Etten, científico en medio ambiente y agricultura con más de 15 años de experiencia en el campo. Sus áreas de trabajo son análisis estadístico y geoespacial, metodologías participativas y diseño de aplicaciones orientadas al usuario. Dentro de sus principales intereses, está la contribución a la innovación en prácticas ambientales, de sostenibilidad y de bienestar. Su formación la realizó en Estudios del Desarrollo Social y producción ecológica y conservación de recursos en Wageningen University en Holanda, y el Bachillerato y su Maestría las realizó en el programa interdisciplinario en agricultura, ciencia y desarrollo internacional de Wageningen University.
+
+**Marcela Alfaro Córdoba, PhD**
+
+marcela.alfarocordoba [at] ucr.ac.cr
+
+Marcela Alfaro Córdoba es una profesional en estadística aplicada, interesada en la enseñanza de la estadística, y en la práctica de la ciencia abierta para el desarrollo de modelos espacio-temporales, de métodos para el análisis de datos funcionales y de aplicaciones de estadística para ciencias atmosféricas. Ella tiene un interés especial en ser mentora de jóvenes (y futuras) investigadoras, por lo que inició junto con un grupo de estudiantes el capítulo de R-ladies San José, que tiene como misión promover la diversidad en la comunidad de R. Su formación profesional es en estadística, tiene un Bachillerato de la Universidad de Costa Rica, una Maestría de la Universidad Estatal de Iowa y un Doctorado de la Universidad Estatal de Carolina del Norte.
+
+
+**Agustín Gómez M, MSI.**
+
+agustin.gomez [at] ucr.ac.cr
+
+Profesional en el campo de la Estadística y Máster en Sistemas de Información, con más de 14 años en el tema de Gestión y Administración de la información y en la consolidación de relaciones interinstitucionales. Está habituado al trabajo interdisciplinario e interinstitucional. Actualmente trabaja en el Observatorio del Desarrollo, Escuela de Estadística y miembro del Observatorio MiPYMEs, Observatorio Cousteau para los Mares y Costa de Centroamérica. Se formó en la Universidad de Costa Rica y en la Universidad Latina de Costa Rica. 
+
+
