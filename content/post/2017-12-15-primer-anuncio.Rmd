@@ -38,7 +38,7 @@ Crear un espacio para hacer comunidad entre usuarios de R (en industria, academi
 
 # Feria de Empleo
 
-Queremos ofrecer a nuestros patrocinadores la oportunidad de mostrar a la comunidad de estudiantes y profesionales, qué hacen con R, por qué es necesario su uso en la industria y por qué necesitan gente con esos conocimientos en específico. La feria de empleo está planeada para que sea gratis para todo el público y puede ser planeada como un evento independiente, pero que coincida en fechas con la conferencia. 
+Queremos ofrecer a nuestros patrocinadores la oportunidad de mostrar a la comunidad de estudiantes y profesionales, qué hacen con R, por qué es necesario su uso en la industria y por qué necesitan gente con esos conocimientos en específico. La feria de empleo será gratuita para todo el público y puede ser planeada como un evento independiente, pero que coincida en fechas con la conferencia. 
 
 # Patrocinadores
 
