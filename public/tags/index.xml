@@ -29,5 +29,23 @@
       <description></description>
     </item>
     
+    <item>
+      <title>Sondeo</title>
+      <link>/tags/sondeo/</link>
+      <pubDate>Mon, 15 Jan 2018 21:16:43 -0500</pubDate>
+      
+      <guid>/tags/sondeo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Usuaris</title>
+      <link>/tags/usuaris/</link>
+      <pubDate>Mon, 15 Jan 2018 21:16:43 -0500</pubDate>
+      
+      <guid>/tags/usuaris/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

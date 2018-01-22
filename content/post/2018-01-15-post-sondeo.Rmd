@@ -1,0 +1,23 @@
+---
+title: "Sondeo de Usuarios Centroamericanos"
+author: "Marcela Alfaro Córdoba"
+date: 2018-01-15T21:16:43-05:00
+categories: ["Sondeo"]
+tags: ["Sondeo", "Usuari@s"]
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(collapse = TRUE)
+```
+
+# Usuarios de R en Centroamérica
+
+Recientemente abrimos un sondeo para recopilar información de los y las usuarios de R en Centroamérica. Nuestros objetivos son primero, correr la voz acerca de ConectaR2019, y segundo recopilar información acerca de potenciales comunidades y áreas de aplicación de los usuarios de R en la región. 
+
+El infográfico a continuación presenta los resultados según el corte al 12 de enero del 2018. Como verán, la muestra está sesgada a usuarios de universidades en Costa Rica, debido a que estamos utilizando la técnica de bola de nieve. Sin embargo, nos encantaría que nos ayudaras con tu información y a correr la voz en otros países centroamericanos y con otras personas que no están en la academia y que utilizan R.
+
+![Fuente: Sondeo en línea](../../public/images/Res_Sondeo_120118.png)
+
+# ¿Querés ayudarnos a correr la voz?
+
+Podés participar aquí: https://goo.gl/forms/su0m521gIns6bFO82 y/o enviar el link a tus contactos.
