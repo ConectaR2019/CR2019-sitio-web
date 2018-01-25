@@ -6,10 +6,21 @@
     <description>Recent content on ConectaR2019</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 15 Jan 2018 21:16:43 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jan 2018 21:15:03 -0500</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Presentamos el Comité Organizador</title>
+      <link>/2018/01/18/presentamos-el-comit%C3%A9-organizador/</link>
+      <pubDate>Thu, 18 Jan 2018 21:15:03 -0500</pubDate>
+      
+      <guid>/2018/01/18/presentamos-el-comit%C3%A9-organizador/</guid>
+      <description>Comité Coordinador El comité organizador de ConectaR2019 esta conformado de las siguientes personas. Si deseas entrar en contacto con nosotros sobre la conferencia mira en la pagina de contacto
+Marcela Alfaro Córdoba, PhD
+Marcela Alfaro Córdoba es una profesional en estadística aplicada, interesada en la enseñanza de la estadística, y en la práctica de la ciencia abierta para el desarrollo de modelos espacio-temporales, de métodos para el análisis de datos funcionales y de aplicaciones de estadística para ciencias atmosféricas.</description>
+    </item>
     
     <item>
       <title>Sondeo de Usuarios Centroamericanos</title>
@@ -28,10 +39,43 @@ El infográfico a continuación presenta los resultados según el corte al 12 de
       
       <guid>/2017/12/15/anunciamos-la-conferencia-conectar2019/</guid>
       <description>ConectaR2019 Te invitamos a participar el 24, 25, 26 de Enero del 2019 en el primer Encuentro de Usuarios de R en Centroamérica. Esperamos crear un foro amplio con representantes de Industria, Enseñanza, Ciencia Ciudadana, Ciencia Abierta.
-
 El evento se llevará a cabo en el Auditorio de la Ciudad de la Investigación de la Universidad de Costa Rica.
  Objetivo principal Crear un espacio para hacer comunidad entre usuarios de R (en industria, academia, ciencia ciudadana, enseñanza) en Centroamérica e incentivar su uso, aprendizaje y el desarrollo de paquetes en R adaptados a las necesidades de la Región Centroamericana.</description>
-
+    </item>
+    
+    <item>
+      <title>Contacto con la Conferencia</title>
+      <link>/contacto/</link>
+      <pubDate>Fri, 15 Dec 2017 21:13:14 -0500</pubDate>
+      
+      <guid>/contacto/</guid>
+      <description>Contacto Nuestro objetivo al organizar la conferencia es fomentar los vinculos entre las personas que hacen la comunidad R en Latinoamerica.
+Organización Para contactar la organización puedes usar la dirección de correo ConectaR2019@gmail.com. Tratamos de responder tan pronto posible.
+ Twitter https://twitter.com/ConectaR2019&amp;quot;
+ Facebook https://facebook.com/ConectaR2019&amp;quot;
+ GitHub “https://github.com/ConectaR2019”
+  </description>
+    </item>
+    
+    <item>
+      <title>Convocatoria de Resumenes</title>
+      <link>/convocatoria/</link>
+      <pubDate>Fri, 15 Dec 2017 21:13:14 -0500</pubDate>
+      
+      <guid>/convocatoria/</guid>
+      <description>Convocatoria   Fecha Accion Notas    Mayo Primer corte para resumenes     Presentaciones orales  Posters   </description>
+    </item>
+    
+    <item>
+      <title>Sobre la Conferencia</title>
+      <link>/sobre/</link>
+      <pubDate>Fri, 15 Dec 2017 21:13:14 -0500</pubDate>
+      
+      <guid>/sobre/</guid>
+      <description>Fechas Clave   Fecha Accion Notas    Mayo Primer corte para resumenes     Organización Para contactar la organización puedes usar la dirección de correo ConectaR2019@gmail.com. Tratamos de responder tan pronto posible.
+ Twitter https://twitter.com/ConectaR2019&amp;quot;
+ Facebook https://facebook.com/ConectaR2019&amp;quot;
+  </description>
     </item>
     
     <item>

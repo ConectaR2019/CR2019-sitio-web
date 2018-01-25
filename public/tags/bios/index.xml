@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bios on ConectaR2019</title>
+    <link>/tags/bios/</link>
+    <description>Recent content in Bios on ConectaR2019</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 18 Jan 2018 21:15:03 -0500</lastBuildDate>
+    
+	<atom:link href="/tags/bios/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Presentamos el Comité Organizador</title>
+      <link>/2018/01/18/presentamos-el-comit%C3%A9-organizador/</link>
+      <pubDate>Thu, 18 Jan 2018 21:15:03 -0500</pubDate>
+      
+      <guid>/2018/01/18/presentamos-el-comit%C3%A9-organizador/</guid>
+      <description>Comité Coordinador El comité organizador de ConectaR2019 esta conformado de las siguientes personas. Si deseas entrar en contacto con nosotros sobre la conferencia mira en la pagina de contacto
+Marcela Alfaro Córdoba, PhD
+Marcela Alfaro Córdoba es una profesional en estadística aplicada, interesada en la enseñanza de la estadística, y en la práctica de la ciencia abierta para el desarrollo de modelos espacio-temporales, de métodos para el análisis de datos funcionales y de aplicaciones de estadística para ciencias atmosféricas.</description>
+    </item>
+    
+  </channel>
+</rss>
