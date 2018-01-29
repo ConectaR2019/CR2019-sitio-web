@@ -12,33 +12,34 @@ knitr::opts_chunk$set(collapse = TRUE)
 
 # ConectaR2019
 
-Te invitamos a participar el 24, 25, 26 de Enero del 2019 en el primer Encuentro de Usuarios de R en Centroamérica. Esperamos crear un foro amplio con representantes de  Industria, Enseñanza, Ciencia Ciudadana, Ciencia Abierta.
+Te invitamos a participar del 24 al 26 de enero del 2019 en el primer Encuentro de Usuarios de R en Centroamérica. Esperamos crear un foro amplio con representantes de la industria, la enseñanza, y la investigación.
 
 El evento se llevará a cabo en el Auditorio de la Ciudad de la Investigación de la Universidad de Costa Rica.
  
 
-
 # Objetivo principal
 
-Crear un espacio para hacer comunidad entre usuarios de R (en industria, academia, ciencia ciudadana, enseñanza) en Centroamérica e incentivar su uso, aprendizaje y el desarrollo de paquetes en R adaptados a las necesidades de la Región Centroamericana.
+Crear un espacio para la comunidad de usuarios centroamericanos de R en la enseñanza, la industria y la investigación para juntos fomentar el uso y el aprendizaje de R en nuestra región.
 
 
 # Ejes temáticos de la conferencia
 
- - Aplicaciones en distintas disciplinas de la academia y la industria. 
+ - Aplicaciones en distintas disciplinas de la academia y la industria
  - Uso en conjunto con otros lenguajes de programación
  - Uso innovador de paquetes existentes
  - Desarrollo de nuevos paquetes
  - Uso en la enseñanza
  - Análisis reproducible de datos
- - Análisis de grandes datos
+ - Análisis de datos masivos
  - Aprendizaje automático
  - Visualización de datos
  - Análisis de datos abiertos
 
+
 # Feria de Empleo
 
-Queremos ofrecer a nuestros patrocinadores la oportunidad de mostrar a la comunidad de estudiantes y profesionales, qué hacen con R, por qué es necesario su uso en la industria y por qué necesitan gente con esos conocimientos en específico. La feria de empleo está planeada para que sea gratis para todo el público y puede ser planeada como un evento independiente, pero que coincida en fechas con la conferencia. 
+Queremos ofrecer a nuestros patrocinadores la oportunidad de mostrar a la comunidad de estudiantes y profesionales, qué hacen con R, por qué es necesario su uso en la industria y por qué necesitan profesionales con esos conocimientos en específico. La feria de empleo será gratuita y abierta para todo el público. Será un evento independiente, que coincide en fechas y lugar con la conferencia. 
+
 
 # Patrocinadores
 
