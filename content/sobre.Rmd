@@ -18,13 +18,13 @@ knitr::opts_chunk$set(collapse = TRUE)
 
 ## Organización
 
-Para contactar la organización puedes usar la dirección de correo ConectaR2019@gmail.com. Tratamos de responder tan pronto posible.
+Para contactar la organización podés usar la dirección de correo info.conectaR2019@gmail.com. Trataremos de responderte lo más pronto posible.
 
 ## Twitter
 
-https://twitter.com/ConectaR2019"
+https://twitter.com/ConectaR2019
 
 ## Facebook
 
-https://facebook.com/ConectaR2019"
+https://facebook.com/ConectaR2019
 
