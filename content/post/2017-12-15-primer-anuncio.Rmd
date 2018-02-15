@@ -12,14 +12,15 @@ knitr::opts_chunk$set(collapse = TRUE)
 
 # ConectaR2019
 
-Te invitamos a participar del 24 al 26 de enero del 2019 en el primer Encuentro de Usuarios de R en Centroamérica. Esperamos crear un foro amplio con representantes de la industria, la enseñanza, y la investigación.
+
+Te invitamos a participar el 24, 25, 26 de Enero del 2019 en el primer Encuentro de Usuarios de R en Latinamerica. Esperamos crear un foro amplio con representantes de  Industria, Enseñanza, Ciencia Ciudadana, Ciencia Abierta.
 
 El evento se llevará a cabo en el Auditorio de la Ciudad de la Investigación de la Universidad de Costa Rica.
- 
 
 # Objetivo principal
 
-Crear un espacio para la comunidad de usuarios centroamericanos de R en la enseñanza, la industria y la investigación para juntos fomentar el uso y el aprendizaje de R en nuestra región.
+
+Crear un espacio para hacer comunidad entre usuarios de R (en industria, academia, ciencia ciudadana, enseñanza) en latinoamerica e incentivar su uso, aprendizaje y el desarrollo de paquetes en R adaptados a las necesidades de la Región latinoamericana.
 
 
 # Ejes temáticos de la conferencia
@@ -44,6 +45,4 @@ Queremos ofrecer a nuestros patrocinadores la oportunidad de mostrar a la comuni
 # Patrocinadores
 
 Por anunciar. Si estás interesado(a) en patrocinar este evento por favor contactá el comité organizador.
-
-
 
