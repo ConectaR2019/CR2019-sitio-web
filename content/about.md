@@ -3,7 +3,7 @@ title: "ConectaR2019"
 date: "2017-12-15T07:00:00-07:00"
 ---
 
-# I Encuentro de Usuarios de R en Centroamérica: Industria, Enseñanza, Ciencia Ciudadana, Ciencia Abierta.
+# I Encuentro de Usuarios de R en Latinoamerica: Industria, Enseñanza, Ciencia Ciudadana, Ciencia Abierta.
 
 *Usamos la misma herramienta, queremos construir comunidad*
 
