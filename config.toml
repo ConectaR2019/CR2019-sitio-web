@@ -2,7 +2,7 @@ baseurl = "/"
 languageCode = "es-cr"
 title = "ConectaR2019"
 theme = "ConectaR2019"
-googleAnalytics = "UA-113328696-1"
+googleAnalytics = "UA-113328696-2"
 disqusShortname = ""
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
