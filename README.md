@@ -10,6 +10,6 @@ Este es sitio con noticias la conferencia [ConectaR2019](https://noticias.conect
 
 **Registro**: [Inscribete!](http://eepurl.com/djC69r)
 
-Te invitamos a participar el 24, 25, 26 de enero del 2019 en el Encuentro de Usuarios R en Latinoamérica ConectaR2019. Daremos un espacio para crear comunidad entre usuarios R en industria, academia, ciencia ciudadana y enseñanza. De esta forma queremos incentivar el uso de R, fomentar el aprendizaje y el desarrollo de paquetes en R adaptados a nuestras necesidades en Latinoamérica.
+Te invitamos a participar el 24, 25, 26 de enero del 2019 en el Encuentro de Usuarios R en Latinoamérica [ConectaR2019](https://www.conectar2019.org). Daremos un espacio para crear comunidad entre usuarios R en industria, academia, ciencia ciudadana y enseñanza. De esta forma queremos incentivar el uso de R, fomentar el aprendizaje y el desarrollo de paquetes en R adaptados a nuestras necesidades en Latinoamérica.
 
 El evento se llevará a cabo en el Auditorio de la Ciudad de la Investigación de la Universidad de Costa Rica.
