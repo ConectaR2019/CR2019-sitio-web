@@ -6,10 +6,19 @@
     <description>Recent content on ConectaR2019</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-cr</language>
-    <lastBuildDate>Thu, 18 Jan 2018 21:15:03 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 15 Mar 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Oportunidades de Patrocinio</title>
+      <link>/2018/03/15/oportunidades-de-patrocinio/</link>
+      <pubDate>Thu, 15 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/03/15/oportunidades-de-patrocinio/</guid>
+      <description>Oportunidades de patrocinio para evento enfocado en ciencia de datos  Invitación Si su empresa tiene un público meta con un interés en ciencia de datos e innovación basada en datos, tenemos una oportunidad de patrocinio para usted: el 24 - 26 de enero del 2019 llevaremos a cabo el Encuentro de Usuarios de R en Latinoamérica ConectaR2019. El evento se llevará a cabo en el Auditorio de la Ciudad de la Investigación de la Universidad de Costa Rica.</description>
+    </item>
     
     <item>
       <title>Presentamos al Comité Organizador</title>
@@ -17,9 +26,9 @@
       <pubDate>Thu, 18 Jan 2018 21:15:03 -0500</pubDate>
       
       <guid>/2018/01/18/presentamos-al-comit%C3%A9-organizador/</guid>
-      <description>Comité Coordinador El comité organizador de ConectaR2019 está integrado por las siguientes personas. Si querés contactarnos con preguntas, sugerencias o iniquietudes acerca de la conferencia mirá en la pagina de contacto.
-Marcela Alfaro Córdoba, PhD
-Marcela Alfaro Córdoba es profesora de estadística en la Universidad de Costa Rica, investigadora en las áreas de modelos espacio-temporales, análisis de datos funcionales y de aplicaciones de estadística para ciencias atmosféricas. Ella tiene un interés especial en ser mentora de jóvenes (y futuras) investigadoras, por lo que inició junto con un grupo de estudiantes el capítulo de R-ladies San José.</description>
+      <description>Comité Coordinador Comité Coordinador ConectaR2019
+ El comité organizador de ConectaR2019 está integrado por las siguientes personas. Si querés contactarnos con preguntas, sugerencias o inquietudes acerca de la conferencia mirá en la pagina de contacto.
+Marcela Alfaro Córdoba, PhD Marcela Alfaro Córdoba es profesora de estadística en la Universidad de Costa Rica, investigadora en las áreas de modelos espacio-temporales, análisis de datos funcionales y de aplicaciones de estadística para ciencias atmosféricas.</description>
     </item>
     
     <item>
