@@ -14,7 +14,9 @@ knitr::opts_chunk$set(collapse = TRUE)
 
 # Comité Coordinador
 
-El comité organizador de ConectaR2019 está integrado por las siguientes personas. Si querés contactarnos con preguntas, sugerencias o iniquietudes acerca de la conferencia mirá en la [pagina de contacto](/contacto).
+![Comité Organizador ConectaR2019](/images/comite_conectaR2019.png)
+
+El comité organizador de ConectaR2019 está integrado por las siguientes personas. Si querés contactarnos con preguntas, sugerencias o inquietudes acerca de la conferencia mirá en la [pagina de contacto](/contacto).
 
 **Marcela Alfaro Córdoba, PhD**
 
